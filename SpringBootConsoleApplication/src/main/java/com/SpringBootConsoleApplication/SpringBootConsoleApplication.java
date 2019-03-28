@@ -13,8 +13,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBootConsoleApplication implements CommandLineRunner {
 
-	@Autowired
-	private CustomerService _customerService;
+		@Autowired
+		private CustomerService _customerService;
 
 	public static void main(String[] args) {
 
