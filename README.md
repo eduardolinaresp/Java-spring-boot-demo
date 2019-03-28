@@ -8,15 +8,15 @@
 
 	cd Java-spring-boot-demo/WebApplication
 	
-##	01-03-empaquetar aplicación 
+##	01-03-empaquetar aplicación desde terminal
 
 	mvn package
 
-##	01-03-Ver aplicación en navegador
+##	01-04-Ejecutar aplicación desde terminal
 	
 	java -jar target/WebApplication.jar
 	
-##	01-03-Ver aplicación en navegador
+##	01-05-Ver aplicación en navegador
 
 	http://localhost:8080/customers/
 
